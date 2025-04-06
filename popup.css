@@ -1,0 +1,15 @@
+#toggle {
+    border: 2px solid #8f87f1;
+    border-radius: 10px;
+    width: 100px;
+    padding: 4px 8px;
+    background-color: #c68efd;
+
+    color: #ffffff;
+    font-weight: 900;
+}
+
+#toggle:active {
+    background-color: #8f87f1;
+    border-color: #c68efd;
+}
